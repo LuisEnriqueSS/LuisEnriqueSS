@@ -40,7 +40,8 @@
         </ul>
       </p>
     </div>
-  
+
+  <br/>
 <h2 >🛠️ Technology Stack</h2>
 
 <div align="center">
