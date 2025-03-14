@@ -35,7 +35,8 @@
           <li>🌱 Passionate about writing efficient, maintainable code</li>
           <li>👨‍💻 Focused on developing robust solutions with industry best practices</li>
           <li>🚀 Always expanding my tech stack and learning new technologies</li>
-          <br>
+          <br/>
+          <br/>
         </ul>
       </p>
     </div>
